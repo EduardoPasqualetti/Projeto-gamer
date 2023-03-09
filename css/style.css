@@ -1,0 +1,20 @@
+/* import */
+
+@font-face {
+    font-family: Titillium_web-Black;
+    src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf);
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* mobile first */
+
+body {
+    background-color: salmon;
+}
